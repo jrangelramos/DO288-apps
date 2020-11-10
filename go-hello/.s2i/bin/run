@@ -8,5 +8,6 @@
 #
 
 # Run the app
+echo "Running with spanish"
 exec /opt/app-root/app --lang es
 
